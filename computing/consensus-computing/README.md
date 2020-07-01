@@ -25,7 +25,7 @@
 | [Motoko](https://sdk.dfinity.org/docs/language-guide/motoko.html)                                   | DFN           |
 | [Near VM](https://examples.near.org/)                                                               | NEAR          |
 | [Neo VM](https://docs.neo.org/docs/en-us/basic/technology/neovm.html)                               | NEO           |
-| [Nock](https://urbit.org/docs/glossary/nock/)                                                       | USTAR         |
+| [Nock](https://urbit.org/docs/glossary/nock/)                                                       | URBIT         |
 | [Pact](https://pact-language.readthedocs.io/en/stable/)                                             | KDA           |
 | [Plutus](https://prod.playground.plutus.iohkdev.io/tutorial)                                        | ADA           |
 | [Rholang](https://rholang.github.io/)                                                               | REV           |
