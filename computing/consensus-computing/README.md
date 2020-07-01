@@ -5,7 +5,7 @@
 | [Bitcoin Script](https://en.bitcoin.it/wiki/Script)                                                 | BTC           |
 | [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html)                                        | CHIA          |
 | [CKB VM](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0003-ckb-vm/0003-ckb-vm.md)         | CKB           |
-| [Clarity](https://docs.blockstack.org/core/smart/overview.html)                                     | STACK         |
+| [Clarity](https://docs.blockstack.org/core/smart/overview.html)                                     | STX           |
 | [CosmWasm](https://www.cosmwasm.com/docs/intro/overview)                                            | CYB           |
 |                                                                                                     | EUL           |
 | [CVM](https://github.com/CortexFoundation/tech-doc/blob/master/cvm/executor/CVM%20Formalization.md) | CTXC          |
