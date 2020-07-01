@@ -1,4 +1,4 @@
-| Network                                                                                             | Execution Env |
+| Execution Env                                                                                       | Network       |
 |-----------------------------------------------------------------------------------------------------|---------------|
 | [Aion VM](https://github.com/aionnetwork/AVM)                                                       | AION          |
 | [AVM](https://docs.avax.network/v1.0/en/api/avm/)                                                   | AVA           |
