@@ -16,6 +16,7 @@
 | [EVM](https://ethereum.github.io/yellowpaper/paper.pdf)                                             | ETC           |
 |                                                                                                     | ETH           |
 |                                                                                                     | RIF           |
+|                                                                                                     | ONE           |
 | [eWASM](https://ewasm.readthedocs.io/en/mkdocs/)                                                    | DOT           |
 |                                                                                                     | ETH2          |
 |                                                                                                     | KSM           |
