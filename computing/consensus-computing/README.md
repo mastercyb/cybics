@@ -39,3 +39,4 @@
 | [Ton VM](https://test.ton.org/tvm.pdf)                                                              | TON           |
 | [ZF*](http://www.fstar-lang.org/tutorial/)                                                          | ZP            |
 | [ZkVM](https://github.com/stellar/slingshot/tree/main/zkvm)                                         | XLM           |
+| [ePL](https://docs.xel.org/learn-epl.html)                                                          | XEL           |
